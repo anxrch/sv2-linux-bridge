@@ -38,7 +38,7 @@ flatpak install flathub com.usebottles.bottles
 ### 2. Auth Bridge 설치
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sv2-linux-bridge.git
+git clone https://github.com/anxrch/sv2-linux-bridge.git
 cd sv2-linux-bridge
 
 # 가상환경 생성 및 활성화
