@@ -1,5 +1,7 @@
 # SV2 Linux Bridge
 
+`Made With Claude Code`
+
 Linux에서 **Synthesizer V Studio 2 Pro**를 실행하기 위한 OAuth 인증 브릿지입니다.
 
 Wine/Bottles 환경에서 SV2의 OAuth 로그인 문제를 해결합니다.
